@@ -1,0 +1,67 @@
+ <!-- contact section start -->
+    <section class="contact-section contact">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2 data-heading="contact">Get in Touch</h2>
+                </div>
+            </div>
+            <div class="row">
+                <!-- contact item start -->
+                <div class="contact-item">
+                    <div class="contact-item-inner outer-shadow">
+                        <i class="fas fa-phone"></i>
+                        <span>Phone</span>
+                        <p>+88 01750121196</p>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="contact-item-inner outer-shadow">
+                        <i class="fas fa-envelope"></i>
+                        <span>Emial</span>
+                        <p>mosiurrahman595@gmail.com</p>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="contact-item-inner outer-shadow">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <span>Address</span>
+                        <p>65/6 Hazarigab, Jigatola. Dhaka-1209</p>
+                    </div>
+                </div>
+                <!-- contact item end -->
+            </div>
+            <!-- contact form start -->
+            <div class="row">
+                <div class="contact-form">
+                    <form action="">
+                        <div class="row">
+                            <div class="w-50">
+                                <div class="input-group outer-shadow hover-in-shadow"><input type="text" placeholder="Name" class="input-control"></div>
+                                <div class="input-group outer-shadow hover-in-shadow"><input type="email" placeholder="Email" class="input-control"></div>
+                                <div class="input-group outer-shadow hover-in-shadow"><input type="subject" placeholder="Subject" class="input-control"></div>
+                            </div>
+                            <div class="w-50">
+                                <div class="input-group outer-shadow hover-in-shadow">
+                                    <textarea type="massage" placeholder="Massage" class="input-control"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="submit-btn">
+                                <button type="submit" class="btn-1 outer-shadow hover-in-shadow">Send Massage</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <!-- contact form end -->
+        </div>
+    </section>
+    <!-- contact section end -->
+
+
+
+
+
+    akta jaigai sudu clss change kora hoise "portfolio" er jaigai project 
